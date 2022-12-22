@@ -1,0 +1,11 @@
+$violeta: blueviolet;
+$blanco: white;
+$gris: gray;
+$colorfondo: #3b3435;
+
+@mixin imagen2() {
+  display: block;
+  text-align: center;
+  justify-content: space-between;
+  margin-bottom: 10px;
+}

@@ -1,0 +1,22 @@
+.carousel {
+  margin: 0 auto;
+  margin-top: 25px;
+  top: 0px;
+  z-index: 0;
+  width: 500px;
+  img {
+    width: 500px;
+  }
+}
+.grid-container p {
+  color: $blanco;
+  padding: 25px;
+  padding-left: 2%;
+  padding-right: 2%;
+  justify-self: end;
+  display: block;
+  text-align: center;
+}
+.grid-container .img2 {
+  @include imagen2;
+}

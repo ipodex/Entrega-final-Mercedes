@@ -1,0 +1,14 @@
+.rellenocontacto {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  margin-left: 20%;
+  margin-right: 25%;
+  flex-direction: row;
+  form {
+    color: $violeta;
+    text-align: center;
+  }
+}
+article {
+  margin-top: 75px;
+}
